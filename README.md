@@ -29,4 +29,4 @@ The winner of the election was:
 
 ## Challenge Overview
 
-##vChallenge Summary
+## Challenge Summary
