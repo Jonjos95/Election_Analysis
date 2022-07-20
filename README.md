@@ -9,8 +9,9 @@
   2. Get a complete list of candidates who received votes.
 
   3.Calculate the total number of votes each candidate received.
-
   4.Calculate the percentage of votes each candidate won.
+  
+  ![Candidate_counts](https://github.com/Jonjos95/Election_Analysis/blob/main/Candidate_counts.png?raw=true)
 
   5.Determine the winner of the election based on popular vote.
 
