@@ -31,9 +31,9 @@
 The analysis of the election are as follows;
 
 There were 369,711 votes cast in the election and the candidates were: 
-  -Charles Casper Stockham
-  -Diana DeGette 
-  -Raymon Anthony Doane.
+    -Charles Casper Stockham
+    -Diana DeGette 
+    -Raymon Anthony Doane
 
 The election results;
 
@@ -51,4 +51,4 @@ The purpose of this analysis is to extract from the data provided, a thorough de
 
 ## Challenge Summary
 
-In conclusion, the results of our analysis not only determined that the winner of the electionw was Diana DeGette, but that Denver was the largest county turnout with 82% of the voter turnout.
+In conclusion, the results of our analysis not only determined that the winner of the electionw was Diana DeGette, but that Denver was the largest county turnout with 82% of the voter turnout. This analysis is treanslatable to various other forms of quantitative analysis and I believe the election board can benefit from implementing similar methods to various other projects. 
